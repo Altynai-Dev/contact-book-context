@@ -1,0 +1,14 @@
+.contactDetails{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(226, 173, 173);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contactDetails img{
+    width: 50%;
+    height: 50%;
+}
